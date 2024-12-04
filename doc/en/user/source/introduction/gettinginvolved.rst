@@ -73,7 +73,7 @@ Everyone is encouraged to submit pull-requests and, if possible, fix issues as w
 
 .. note::
    
-   As a popular program GeoServer often excheeds the number of accounts available to open source projects. So if you cannot get in please let us know and we will review unused accounts.
+   As a popular program GeoServer often exceeds the number of accounts available to open source projects. So if you cannot get in please let us know and we will review unused accounts.
 
 .. warning:: Coordinated Vulnerability Disclosure
 
@@ -85,7 +85,7 @@ Everyone is encouraged to submit pull-requests and, if possible, fix issues as w
      
      Or directly use GitHub `private vunerablity reporting <https://github.com/geoserver/geoserver/security/advisories/new>`_.
      
-   * There is no expected response time. Be prepared to work with Be prepared to work with geoserver-security email list volunteers on a solution.
+   * There is no expected response time. Be prepared to work with geoserver-security email list volunteers on a solution.
    * Keep in mind participants are volunteering their time, an extensive fix may require fundraising/resources.
 
 If you are not in position to communicate in public, please consider `commercial support <https://geoserver.org/support/>`__, contacting a Project Steering Committee member, or reaching us via the Open Source Geospatial Foundation at `info@osgeo.org <mailto:info@osgeo.org>`__.
